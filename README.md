@@ -9,6 +9,7 @@ Repo to learn stuff about kubernetes
 
 ## Resources
 
+- [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes/)
 - [Intro to Kubernetes by Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
 - Plural Sight CKAD path has intro kubernetes course 
 - [Linux kubernetes training](https://training.linuxfoundation.org/resources/tutorials/getting-started-with-kubernetes-is-easy-with-minikube/?utm_source=lftraining&utm_medium=twitter&utm_campaign=tutorial)
